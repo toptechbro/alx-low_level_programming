@@ -1,1 +1,1 @@
-Welcome to the alx low level programming directory
+This is the c hello world directory
