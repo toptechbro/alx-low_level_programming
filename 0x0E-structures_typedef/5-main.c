@@ -1,11 +1,11 @@
 #include <stdio.h>
 #include "dog.h"
-
 /**
- * Main - check the code
- *
- * return: Always 0.
- */
+  * main - Check the code
+  *
+  * Return: Returns 0 Always.
+  */
+
 int main(void)
 {
 	dog_t *my_dog;
