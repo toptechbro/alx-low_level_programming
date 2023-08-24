@@ -3,7 +3,7 @@
 /**
  * main - prints a quote
  *
- * Return: returns 0 always
+ * Return: Always 0 (success)
  */
 
 int main(void)
