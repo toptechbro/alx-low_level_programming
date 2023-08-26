@@ -1,5 +1,5 @@
 #include "lists.h"
-
+#include <stdio.h>
 
 /**
  * print_first - prints a sentence befor main func
