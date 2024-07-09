@@ -19,7 +19,7 @@ void jack_bauer(void)
 				{
 					if (h1 == 2 && h2 == 4)
 					{
-						return ;
+						return;
 					}
 					else
 					{
